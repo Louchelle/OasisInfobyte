@@ -1,0 +1,16 @@
+# Password Generator App
+
+## Overview
+**Password Generator** is a simple yet powerful app designed to create strong, unique passwords for your personal and professional use. With a focus on security and ease of use, this app ensures that your accounts stay safe from common hacking techniques.
+
+## Features
+- **Customizable Password Length:** Choose the length of your generated passwords.
+- **One-Click Copy:** Easily copy your new password to the clipboard with one click.
+- **One-Click password generation:** Generate a password with one click.
+
+## Usage
+To generate a password, simply:
+1. Open the app.
+2. Adjust the settings to your preference (length, complexity, etc.).
+3. Tap the 'Generate' button.
+4. Copy the password to your clipboard.
